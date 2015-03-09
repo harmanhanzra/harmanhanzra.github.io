@@ -6,7 +6,7 @@ style: center
 fa-icon: book
 ---
 
-# Bhog -- Sri Akhand Path Sahib
+# :pray: Bhog -- Sri Akhand Path Sahib :pray:
 1st April to 3rd April, 2015
 
 at 
