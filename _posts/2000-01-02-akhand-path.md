@@ -7,7 +7,7 @@ fa-icon: book
 ---
 
 # :pray: Bhog -- Sri Akhand Path Sahib :pray:
-1st April to 3rd April, 2015
+:clock1030: 10:30 AM, 3rd April, 2015
 
 at 
 

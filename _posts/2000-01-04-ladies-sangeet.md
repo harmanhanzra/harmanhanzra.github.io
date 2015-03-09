@@ -8,7 +8,7 @@ fa-icon: music
 
 # :dancers: Ladies Sangeet :dancers:
 
-7 PM to 10 PM, 3rd April, 2015
+:clock7: 7 PM to 10 PM, 3rd April, 2015
 
 at 
 
