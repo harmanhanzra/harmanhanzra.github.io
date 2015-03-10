@@ -1,12 +1,12 @@
 ---
-title: "Ladies Sangeet"
+title: "Sangeet"
 bg: '#d16587'
 color: black
 style: center
 fa-icon: music
 ---
 
-# :dancers: Ladies Sangeet :dancers:
+# :dancers: Geet Sangeet :dancers:
 
 :clock7: 7 PM to 10 PM, 3rd April, 2015
 

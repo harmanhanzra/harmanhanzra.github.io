@@ -1,5 +1,5 @@
 ---
-title: "Akhand Path"
+title: "Path"
 bg: orange
 color: white
 style: center
